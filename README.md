@@ -4,10 +4,13 @@
 
 ## 试听
 
-| 语言 | 音频 |
-|------|------|
-| 中文 | [demo_zh.wav](中.wav) |
-| English | [demo_en.wav](英.wav) |
+**中文：**
+
+<audio controls src="中.wav"></audio>
+
+**English：**
+
+<audio controls src="英.wav"></audio>
 
 ## 使用
 
