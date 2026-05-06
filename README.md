@@ -6,7 +6,7 @@
 
 **中文：**
 
-<audio controls src="中.wav"></audio>
+<audio controls src="https://github.com/OmniDimen/Gove/raw/main/中.wav"></audio>
 
 **English：**
 
