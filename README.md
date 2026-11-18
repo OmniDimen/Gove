@@ -14,6 +14,10 @@
 
 将模型文件放入对应目录，选择 Gove 作为音色，输入文本并生成音频即可。
 
+### 在 Mac 上安装
+
+可以用 [Gove Mac Skill](https://github.com/Omnitopia/gove-mac-tts) 让有本机终端权限的 AI 安装 Gove，并生成一段测试语音。目前支持搭载 Apple 芯片的 Mac。仓库里有中英文说明和四种语言的试听。
+
 ## 试听
 
 | 语言 | 音频 |
